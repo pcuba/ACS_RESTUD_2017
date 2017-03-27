@@ -2,14 +2,14 @@
 
 Replication Files for: 
 
-"Macroeconomic Dynamics Near the ZLB: A Tale of Two Countries"
+"Macroeconomic Dynamics Near the ZLB: A Tale of Two Countries".
 Review of Economic Studies. (Forthcoming)
 
 by
 
-Boragan Aruoba (Maryland)
-Pablo Cuba-Borda (Board of Governors)
-Frank Schorfheide (Penn)
+[Boragan Aruoba](http://aruoba.econ.umd.edu) (Maryland)
+[Pablo Cuba-Borda](http://www.pcubaborda.net) (Board of Governors)
+[Frank Schorfheide](http://sites.sas.upenn.edu/schorf/) (Penn)
 
 This repository consists of 4 directories:
 
